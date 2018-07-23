@@ -1,7 +1,7 @@
 sudo: false
 
 language: php
-LOREM IPSUM DOLOR MET
+
 php:
   - 5.3
   - 5.4
